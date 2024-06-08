@@ -1,0 +1,8 @@
+[user]
+	signingkey = 057BFD4B423B2E94
+	name = Dmitry Kopievsky
+	email = 140730150+pokeskive@users.noreply.github.com
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = main
