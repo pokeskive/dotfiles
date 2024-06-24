@@ -5,8 +5,8 @@ export SHELL_SESSIONS_DISABLE=1
 autoload -Uz vcs_info
 precmd() { vcs_info }
 setopt prompt_subst
-export PROMPT=$'%B%F{green}%~${vcs_info_msg_0_}$(_git_info) \u276f %b%f'
-zstyle ':vcs_info:git:*' formats $' \u276f %b'
+export PROMPT=$'%B%F{green}%1~${vcs_info_msg_0_}$(_git_info) \ue349  %b%f'
+zstyle ':vcs_info:git:*' formats $'%f on %F{green}\ue0a0 %b'
 
 # FUNCTIONS
 # Displaying current git status
