@@ -1,0 +1,56 @@
+{
+  "theme": "Everforest Dark",
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "vim_mode": true,
+  "ui_font_family": "Iosevka Term SS15",
+  "ui_font_size": 16,
+  "buffer_font_family": "Iosevka Term SS15",
+  "buffer_font_size": 17,
+  "buffer_font_features": {
+    "calt": false
+  },
+  "terminal": {
+    "font_family": "Iosevka Term SS15",
+    "font_size": 17,
+    "default_height": 300,
+    "button": false
+  },
+  "features": {
+    "inline_completion_provider": "none"
+  },
+  "cursor_blink": false,
+  "toolbar": {
+    "quick_actions": false,
+    "selections_menu": false
+  },
+  "outline_panel": {
+    "button": false
+  },
+  "gutter": {
+    "folds": false
+  },
+  "relative_line_numbers": true,
+  "project_panel": {
+    "default_width": 300
+  },
+  "collaboration_panel": {
+    "button": false
+  },
+  "chat_panel": {
+    "button": false
+  },
+  "notification_panel": {
+    "button": false
+  },
+  "assistant": {
+    "version": "1",
+    "enabled": false,
+    "button": false
+  },
+  "tab_bar": {
+    "show_nav_history_buttons": false
+  }
+}
