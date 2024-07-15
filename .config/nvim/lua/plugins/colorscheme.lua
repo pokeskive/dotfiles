@@ -1,10 +1,8 @@
 return {
-    'sainnhe/everforest',
+    'craftzdog/solarized-osaka.nvim',
     lazy = false,
     priority = 1000,
     config = function()
-        vim.g.everforest_enable_italic = true
-        vim.g.everforest_transparent_background = true
-        vim.cmd.colorscheme('everforest')
+        vim.cmd.colorscheme('solarized-osaka')
     end,
 }
