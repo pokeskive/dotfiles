@@ -34,7 +34,7 @@ bare checkout
 bare config --local status.showUntrackedFiles no
 ```
 
-## Links  
+## References  
 [Dotfiles: Best way to store in a bare git repository](https://www.atlassian.com/git/tutorials/dotfiles)  
 [Git Bare Repository - A Better Way To Manage Dotfiles](https://www.youtube.com/watch?v=tBoLDpTWVOM)  
 [Git Bare: The best way to manage dotfiles on Gitlab or Github](https://www.youtube.com/watch?v=iYElODEf6aw)
